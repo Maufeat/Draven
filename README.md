@@ -4,6 +4,8 @@
 
 Add the following Region to your `region_data:` in `system.yaml` (Replace the TEST: entry if already exists) in your League of Legends Root:
 
+You'll most likely have to edit the `system.yaml` in `\RADS\projects\league_client\releases\{highest version}\deploy` too 
+
 ```
   TEST:
     available_locales:
