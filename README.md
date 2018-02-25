@@ -52,3 +52,5 @@ You'll most likely have to edit the `system.yaml` in `\RADS\projects\league_clie
         store_url: https://store.euw1.lol.riotgames.com
     web_region: euw
 ``` 
+After setting everything up, select the `TEST` region in your LeagueClient
+![Region Change](https://i.imgur.com/sQIq6KL.png)
